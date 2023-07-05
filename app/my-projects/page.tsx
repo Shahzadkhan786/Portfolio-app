@@ -2,7 +2,7 @@ import React from 'react'
 import {projects} from "../data/data"
 import ProjectCard from './components/project-card'
 
-const MyProjects= () => {
+function MyProjects(){
     return(
         <div className="flex flex-col w-11/12 content-center m-auto">
             <h2 className="text-2xl font-bold mb-4">My Projects:</h2>
@@ -16,3 +16,4 @@ const MyProjects= () => {
     )
 }
 export default MyProjects
+
