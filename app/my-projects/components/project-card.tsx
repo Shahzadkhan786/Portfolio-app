@@ -2,7 +2,7 @@ import Image from "next/image"
 import React from "react"
 
 type ProjectCardProps = {
-	data: {
+    data: {
 		title: string;
 		body1: string;
 		body2: string;

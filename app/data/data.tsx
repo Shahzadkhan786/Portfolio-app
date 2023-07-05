@@ -32,7 +32,7 @@ export const contactMeText = {
 };
 
 export const projects = [
-	{
+	{   key:{id:""},
 		title: "Currency Converter:",
 		body1:
 			"A web application that allows users to convert currency , help know their rate, and view charts to gain insights into currency rates.",

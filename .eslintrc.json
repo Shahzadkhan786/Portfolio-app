@@ -1,6 +1,6 @@
 {
   "extends": ["eslint:recommended", "next"],
   "rules": {
-    "react/jsx-key": "off"
+    "react/tsx-key": "off"
   }
 }
