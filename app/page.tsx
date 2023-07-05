@@ -13,7 +13,7 @@ const AboutMePage = () => {
 						height={640}
 						aria-label={"image of WhatsApp Image 2023-05-28 at 12.53.47 PM.jpeg"}
 						alt={"WhatsApp Image 2023-05-28 at 12.53.47 PM.jpeg"}
-						src={"/images/Shahzad.png"}
+						src={"/images/1234tre.png"}
 						className='profileImage'
 					/>
 				</div>

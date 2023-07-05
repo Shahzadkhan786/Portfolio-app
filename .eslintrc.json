@@ -1,3 +1,6 @@
 {
-  "extends": ["eslint:recommended", "next"]
+  "extends": ["eslint:recommended", "next"],
+  "rules": {
+    "react/jsx-key": "off"
+  }
 }
