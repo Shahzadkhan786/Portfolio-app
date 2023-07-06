@@ -1,8 +1,6 @@
 import React from 'react'
 import { contactMeText } from '../data/data'
 import { Form } from './components/form'
-import { Mail } from 'lucide-react'
-
 
 const ContactMePage= () => {
     return(
