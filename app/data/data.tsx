@@ -32,7 +32,7 @@ export const contactMeText = {
 };
 
 export const projects = [
-	{   key:{id:"1"},
+	{   id:"1",
 		title: "Currency Converter:",
 		body1:
 			"A web application that allows users to convert currency , help know their rate, and view charts to gain insights into currency rates.",
@@ -49,7 +49,8 @@ export const projects = [
 			},
 		],
 	},
-	{
+	{   
+		id:"2",
 		title: "Calculator:",
 		body1:
 			"A machine learning model that can Calculate anything for users.",
@@ -66,7 +67,8 @@ export const projects = [
 			},
 		],
 	},
-	{
+	{   
+		id:"3",
 		title: "Number Guessing Game:",
 		body1: "A simple game of Number Guessing Game built with Typescript and Node.Js. ",
 		body2: "Technologies used: Typescript, Javascript and Node.js.",
@@ -82,7 +84,8 @@ export const projects = [
 			},
 		],
 	},
-	{
+	{   
+		id:"4",
 		title: "AMESIP Website:",
 		body1:
 			"A website that allows users to contact and know about Al-Munir Education System Islamabad.",
@@ -99,7 +102,8 @@ export const projects = [
 			},
 		],
 	},
-	{
+	{   
+		id:"5", 
 		title: "Todo List:",
 		body1:
 			"A simple todo list application that allows users to add, edit, and delete tasks, and mark them as complete.",
@@ -116,7 +120,8 @@ export const projects = [
 			},
 		],
 	},
-	{
+	{   
+		id:"6",
 		title: "Student Manegment System:",
 		body1:
 			"A web application that allows users to manage student record and results.",
