@@ -2,11 +2,7 @@ import { Mail, Phone, Github } from "lucide-react";
 
 import React from 'react'
 
-type FooterProps={
-    contactMeLinks:string[];
-}
-
-const Footer= ({contactMeLinks}:FooterProps) =>{
+const Footer= () =>{
     return(
         <footer className="bg-orange w-full shadow-footer mt-12 py-4 fixed bottom-0 "> 
             <div className="flex items-center justify-center gap-6">
